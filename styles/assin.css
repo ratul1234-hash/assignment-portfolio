@@ -1,0 +1,37 @@
+.navi{
+    width: 1140px;
+    height: 151px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+}
+.uu{
+    width: 132px;
+    height: 48px;
+    background-color: #4E47FF;
+    color: #FFFFFF;
+}
+.lo{
+    color: #4E47FF;
+}
+.hi{
+    width: 905px;
+    height: 237px;
+    margin: 0 auto;
+    align-items: center;
+}
+.ju{
+    align-items: center;
+    width: 174px;
+    height: 48px;
+    background-color: #4E47FF;
+    color: white;
+}
+.first{
+    width: 1440px;
+    height: 698px;
+    margin: 0 auto;
+    background-image: url(../B12A01-landing-launchpad/Assets/Hero-bg.png);
+    align-items: center;
+}
