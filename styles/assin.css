@@ -11,6 +11,7 @@
     height: 48px;
     background-color: #4E47FF;
     color: #FFFFFF;
+    border-radius: 20px;
 }
 .lo{
     color: #4E47FF;
@@ -27,6 +28,8 @@
     height: 48px;
     background-color: #4E47FF;
     color: white;
+    border-radius: 20px;
+}
 }
 .first{
     width: 1440px;
@@ -34,4 +37,24 @@
     margin: 0 auto;
     background-image: url(../B12A01-landing-launchpad/Assets/Hero-bg.png);
     align-items: center;
+}
+.second{
+    width: 1140px;
+    height: 328px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.imge{
+    width: 403px;
+    height: 328px;
+    border-radius: 48px 10px 30px 20px;
+}
+.fu{
+    width: 229px;
+    height: 48px;
+    color: white;
+    background-color: #4E47FF ;
+    border-radius: 20px;
+}
 }
