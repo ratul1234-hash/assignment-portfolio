@@ -47,7 +47,8 @@
 .imge{
     width: 403px;
     height: 328px;
-    border-radius: 48px 10px 30px 20px;
+    border-radius: 48px;
+    
 }
 .fu{
     width: 229px;
@@ -78,6 +79,7 @@
     display: flex;
     justify-content: space-around;
     
+    
 }
 .a{
     align-items: center;
@@ -88,6 +90,7 @@
     height: 342px;
     margin: 0 auto;
     text-align: center;
+    
     
 
 }
@@ -132,4 +135,28 @@
     color: white;
     background-color: #4E47FF;
     justify-content: center;
+    
+}
+
+.foo{
+    width: 1440px;
+    height: 428px;
+    margin: 0 auto;
+    text-align: center;
+
+    text-decoration: none;
+}
+.an{
+    gap: 20px;
+    background-color: none;
+    
+    align-items: center;
+    justify-content: space-around;
+}
+button:hover{
+    background-color: cyan;
+}
+#head{
+    color: #4E47FF;
+    font-size: 100px;
 }
